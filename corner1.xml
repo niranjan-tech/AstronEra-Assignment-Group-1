@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This gives shape to the white box  used in signup and login page -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="#ffffff"/>
+    <corners android:radius="100dp"/>
+</shape>

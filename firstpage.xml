@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- used to proviede desired color background to flashscreen -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="#07245C"  android:centerColor="#1475DC"   android:endColor="#E1E6F4" android:type="linear"/>
+</shape>
